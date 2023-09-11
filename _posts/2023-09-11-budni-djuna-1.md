@@ -8,6 +8,8 @@ tags: [будниджуна, видео]
 summary:
 ---
 
+# Новое видео БудниДжуна, выпуск 1
+
 Сегодня я готов поделиться с вами своим опытом после первого месяца работы.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O_OOlIMZ5ME?si=qZ3jyAufH9mEiMsj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
