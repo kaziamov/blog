@@ -3,7 +3,7 @@ layout: post
 title:
 date: 2023-09-11 17:25
 category:
-author: Ilia Kaziamov (@kaziamov)
+author:
 tags: []
 summary:
 ---
