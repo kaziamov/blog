@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Новое видео БудниДжуна, выпуск 1
+title: БудниДжуна, выпуск 1
 date: 2023-09-11 17:25
 category:
 author:
